@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1ce69fc701341339c0a1dd74f4f36f0/artifacts
+end_time: 1742678446536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ce69fc701341339c0a1dd74f4f36f0
+run_name: melodic-ant-702
+run_uuid: d1ce69fc701341339c0a1dd74f4f36f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742678446217
+status: 3
+tags: []
+user_id: mdmoazzamali

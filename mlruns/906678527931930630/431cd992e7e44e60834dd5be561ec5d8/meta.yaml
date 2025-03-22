@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906678527931930630/431cd992e7e44e60834dd5be561ec5d8/artifacts
+end_time: 1742678590703
+entry_point_name: ''
+experiment_id: '906678527931930630'
+lifecycle_stage: active
+run_id: 431cd992e7e44e60834dd5be561ec5d8
+run_name: unique-frog-903
+run_uuid: 431cd992e7e44e60834dd5be561ec5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742678590386
+status: 3
+tags: []
+user_id: mdmoazzamali

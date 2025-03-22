@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906678527931930630/c99b9b690d5a415281e327d15247852c/artifacts
+end_time: 1742682765450
+entry_point_name: ''
+experiment_id: '906678527931930630'
+lifecycle_stage: active
+run_id: c99b9b690d5a415281e327d15247852c
+run_name: charming-cub-376
+run_uuid: c99b9b690d5a415281e327d15247852c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742682763411
+status: 3
+tags: []
+user_id: mdmoazzamali

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe18ddbf7f5c4617a8a2b958f1c9e2a3/artifacts
+end_time: 1742677102353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe18ddbf7f5c4617a8a2b958f1c9e2a3
+run_name: sincere-colt-284
+run_uuid: fe18ddbf7f5c4617a8a2b958f1c9e2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742677102342
+status: 3
+tags: []
+user_id: mdmoazzamali

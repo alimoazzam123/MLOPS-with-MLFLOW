@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/906678527931930630/860bda5a0fa24047858be4b056d30c63/artifacts
+deleted_time: 1742680369048
+end_time: 1742680220310
+entry_point_name: ''
+experiment_id: '906678527931930630'
+lifecycle_stage: deleted
+run_id: 860bda5a0fa24047858be4b056d30c63
+run_name: dapper-bear-96
+run_uuid: 860bda5a0fa24047858be4b056d30c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742680219936
+status: 4
+tags: []
+user_id: mdmoazzamali

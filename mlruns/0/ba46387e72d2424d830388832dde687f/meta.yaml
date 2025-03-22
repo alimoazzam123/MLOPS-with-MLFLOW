@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba46387e72d2424d830388832dde687f/artifacts
+end_time: 1742677270328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba46387e72d2424d830388832dde687f
+run_name: abundant-bee-294
+run_uuid: ba46387e72d2424d830388832dde687f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742677270315
+status: 3
+tags: []
+user_id: mdmoazzamali

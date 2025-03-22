@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/906678527931930630/5d17362c67e64f4596f71a2a018da5ea/artifacts
+end_time: 1742682710823
+entry_point_name: ''
+experiment_id: '906678527931930630'
+lifecycle_stage: active
+run_id: 5d17362c67e64f4596f71a2a018da5ea
+run_name: valuable-stork-251
+run_uuid: 5d17362c67e64f4596f71a2a018da5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742682708632
+status: 4
+tags: []
+user_id: mdmoazzamali

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c33455b01c442f2b048a587e29f0f53/artifacts
+end_time: 1742678058523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c33455b01c442f2b048a587e29f0f53
+run_name: skillful-quail-423
+run_uuid: 5c33455b01c442f2b048a587e29f0f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742678058090
+status: 3
+tags: []
+user_id: mdmoazzamali
